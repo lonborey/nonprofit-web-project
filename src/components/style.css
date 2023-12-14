@@ -1,0 +1,6 @@
+.slide-container {
+  display: flex;
+  margin: 10 0;
+  justify-content: space-around;
+  align-items: center;
+}
